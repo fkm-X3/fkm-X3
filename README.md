@@ -16,11 +16,7 @@ A browser built from the ground up in Rust. This project explores the depths of 
 
 **Tech Stack:** Rust, C++, Html, Batchfile, CMake
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats-pink-five-79.vercel.app/api?username=fkm-X3&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats-pink-five-79.vercel.app/api/top-langs/?username=fkm-X3&layout=compact&theme=radical)
+## 🔥 GitHub streak
 
 [![GitHub Streak](https://github-readme-streak-stats-umber-mu-64.vercel.app?user=fkm-X3&theme=hacker)](https://git.io/streak-stats)
 
