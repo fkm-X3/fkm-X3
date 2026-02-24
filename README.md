@@ -14,7 +14,7 @@ A web gaming site that brings fun and interactive games right to your browser. B
 ### 🦀 [rusty-web](https://github.com/fkm-X3/Rusty-web)
 A browser built from the ground up in Rust. This project explores the depths of web rendering, networking, and the challenges of creating a modern browser with performance and safety in mind.
 
-**Tech Stack:** Rust, C++, Html, Batchfile, CMake
+**Tech Stack:** Rust, Html, Batchfile
 
 ## 🔥 GitHub streak
 
