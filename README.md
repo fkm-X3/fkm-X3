@@ -30,5 +30,5 @@ A browser built from the ground up in Rust. This project explores the depths of 
 
 ## 💡 Currently
 
-- 🔭 Working on: Rusty Web
-- 🌱 Learning: Rust and C++
+- 🔭 Working on: .Rusty (and private projects)
+- 🌱 Learning: Rust and html
