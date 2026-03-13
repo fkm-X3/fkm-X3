@@ -6,15 +6,18 @@ I'm a developer passionate about building innovative projects from the ground up
 
 ## 💻 Featured Projects
 
-### 🎮 [cheeseman-hub](https://cheeseman-git.github.io)
-A web gaming site that brings fun and interactive games right to your browser. Built with a focus on smooth gameplay and an engaging user experience.
+### 🌐 [.Rusty](https://github.com/fkm-X3/.rusty)
+A new domain that uses the Hickory-dns for rust projects.
 
-**Tech Stack:** JavaScript, Html and Css
+**Tech Stack:** RUST
 
-### 🦀 [rusty-web](https://github.com/fkm-X3/Rusty-web)
-A browser built from the ground up in Rust. This project explores the depths of web rendering, networking, and the challenges of creating a modern browser with performance and safety in mind.
+### 🎮 [Wasm-games](https://github.com/fkm-X3/Wasm-games)
+Games made in rust before compiled into Wasm games
+**Tech Stack:** Rust, Html, Css, Js
 
-**Tech Stack:** Rust, Html, Batchfile
+### 🌐 [Fbt_7] (https://github.com/fkm-X3/Fbt_7)
+Most commits but the most ass, a project containing the first version of cube combat made in html (ill work on it eventually but its high commits so ill show it)
+**Tech Stack:** Python, Html, Css, Js
 
 ## 🔥 GitHub streak
 
