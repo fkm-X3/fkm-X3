@@ -16,7 +16,7 @@ Games made in rust before compiled into Wasm games.
 
 **Tech Stack:** Rust, Html, Css, Js
 
-### 🌐 [Fbt_7] (https://github.com/fkm-X3/Fbt_7)
+### 🌐 [Fbt_7](https://github.com/fkm-X3/Fbt_7)
 Most commits but the most ass, a project containing the first version of cube combat made in html (ill work on it eventually but its high commits so ill show it)
 
 **Tech Stack:** Python, Html, Css, Js
