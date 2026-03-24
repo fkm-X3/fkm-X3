@@ -8,8 +8,6 @@ I'm a young developer passionate about all things coding :3.
 
 ### COMING SOON 👻🚧
 
-**Tech Stack:** Python, Html, Css, Js
-
 ## 🔥 GitHub streak
 
 [![GitHub Streak](https://github-readme-streak-stats-umber-mu-64.vercel.app?user=fkm-X3&theme=hacker)](https://git.io/streak-stats)
