@@ -2,22 +2,11 @@
 
 ## 🚀 About Me
 
-I'm a developer passionate about building innovative projects from the ground up. Whether it's crafting web experiences or diving deep into systems programming, I love tackling challenging problems and creating something unique.
+I'm a young developer passionate about all things coding :3.
 
 ## 💻 Featured Projects
 
-### 🌐 [.Rusty](https://github.com/fkm-X3/.rusty)
-A new domain that uses the Hickory-dns for rust projects.
-
-**Tech Stack:** RUST
-
-### 🎮 [Wasm-games](https://github.com/fkm-X3/Wasm-games)
-Games made in rust before compiled into Wasm games.
-
-**Tech Stack:** Rust, Html, Css, Js
-
-### 🌐 [Fbt_7](https://github.com/fkm-X3/Fbt_7)
-Most commits but the most ass, a project containing the first version of cube combat made in html (ill work on it eventually but its high commits so ill show it)
+### COMING SOON 👻🚧
 
 **Tech Stack:** Python, Html, Css, Js
 
