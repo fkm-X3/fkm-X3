@@ -22,5 +22,5 @@ I'm a young developer passionate about all things coding :3.
 
 ## 💡 Currently
 
-- 🔭 Working on: .Rusty (and private projects)
+- 🔭 Working on: simple-idot (coming soon 👀)
 - 🌱 Learning: Rust and html
