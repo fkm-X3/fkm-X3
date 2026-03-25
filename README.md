@@ -5,8 +5,10 @@
 I'm a young developer passionate about all things coding :3.
 
 ## 💻 Featured Projects
+### Simple-Idot
+a simple beginner coding language that uses both compile and inturperated scripts
 
-### COMING SOON 👻🚧
+[Simple-Idot](https://github.com/fkm-X3/Simple-idot/tree/main)
 
 ## 🔥 GitHub streak
 
@@ -22,5 +24,5 @@ I'm a young developer passionate about all things coding :3.
 
 ## 💡 Currently
 
-- 🔭 Working on: simple-idot (coming soon 👀)
+- 🔭 Working on: simple-idot
 - 🌱 Learning: Rust and html
