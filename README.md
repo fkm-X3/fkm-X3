@@ -5,10 +5,10 @@
 I'm a young developer passionate about all things coding :3.
 
 ## 💻 Featured Projects
-### Simple-Idot
-a simple beginner coding language that uses both compile and inturperated scripts
+### Advanced-idot
+a sigma coding language that uses both compile and inturperated scripts (pro's only)
 
-[Simple-Idot](https://github.com/fkm-X3/Simple-idot/tree/main)
+[Advanced-Idot](https://github.com/fkm-X3/Advanced-idot)
 
 ## 🔥 GitHub streak
 
@@ -24,5 +24,5 @@ a simple beginner coding language that uses both compile and inturperated script
 
 ## 💡 Currently
 
-- 🔭 Working on: simple-idot
+- 🔭 Working on: Advanced-Idot
 - 🌱 Learning: Rust and html
