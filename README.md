@@ -5,10 +5,10 @@
 I'm a young developer passionate about all things coding :3.
 
 ## 💻 Featured Projects
-### Advanced-idot
-a sigma coding language that uses both compile and inturperated scripts (pro's only)
+### Alloy-OS
+a os built from scratch in c/c++ and rust
 
-[Advanced-Idot](https://github.com/fkm-X3/Advanced-idot)
+[Alloy OS](https://github.com/fkm-X3/Alloy-OS)
 
 ## 🔥 GitHub streak
 
