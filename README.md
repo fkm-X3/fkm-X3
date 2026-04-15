@@ -10,6 +10,8 @@ a os built from scratch in c/c++ and rust
 
 [Alloy OS](https://github.com/fkm-X3/Alloy-OS)
 
+![Light](alloy-os-light.svg) ![Dark](alloy-os-dark.svg)
+
 ## 🔥 GitHub streak
 
 [![GitHub Streak](https://github-readme-streak-stats-umber-mu-64.vercel.app?user=fkm-X3&theme=hacker)](https://git.io/streak-stats)
