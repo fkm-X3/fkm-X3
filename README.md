@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a young developer passionate about making open source projects in mainly Rust and C (👀 looking in to zig, might use it once it reaches a stable 1.0.0 release).
+I'm a young developer passionate about making open source projects in mainly Rust and C. If I think I can make a project fundementally better, i clear it out and rebuild from scratch.
 
 ## 💻 Featured Projects
 ### Alloy-OS
