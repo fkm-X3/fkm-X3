@@ -20,17 +20,7 @@ a os built from scratch in c/c++ and rust
 ## Metrics
 ![Metrics](https://metrics.lecoq.io/fkm-X3?template=classic&isocalendar=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.ignored=webassembly&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Australia%2FSydney)
 
-## 🛠️ Technologies & Tools
+## What am I cooking up?
 
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
-![Assembly](https://img.shields.io/badge/-Assembly-000?&logo=assemblyscript)
-![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
-## 💡 Currently
-
-- 🔭 Working on: Alloy-Os
-- 🌱 Learning: Rust, c/c++ and assembly
+- 🔭 Working on: Idot-lang and Alloy-OS
+- 🌱 Learning: Low level systems programing
