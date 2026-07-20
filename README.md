@@ -22,5 +22,5 @@ a os built from scratch in c/c++ and rust
 
 ## What am I cooking up?
 
-- 🔭 Working on: Idot-lang and Alloy-OS
+- 🔭 Working on: Alloy-OS and Nonic
 - 🌱 Learning: Low level systems programing
