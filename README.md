@@ -1,8 +1,6 @@
 # Hi there, I'm Fkm_X3 👋
 
-## 🚀 About Me
-
-I'm a young developer passionate about making open source projects in mainly Rust and C. If I think I can make a project fundementally better, i clear it out and rebuild from scratch.
+You will learn infinitely more by giving something a good try then sitting around and learning about the "Why did this project die".
 
 ## 💻 Featured Projects
 ### Alloy-OS
