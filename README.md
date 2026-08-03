@@ -4,7 +4,7 @@ You will learn infinitely more by giving something a good try then sitting aroun
 
 ## 💻 Featured Projects
 ### Alloy-OS
-a os built from scratch in c/c++ and rust
+A OS from scratch built from scratch in Rust and C/C++
 
 [Alloy OS](https://github.com/fkm-X3/Alloy-OS)
 
