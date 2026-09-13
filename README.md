@@ -8,11 +8,7 @@ A bare metal kernel entirely in rust.
 
 [![GitHub Streak](https://github-readme-streak-stats-umber-mu-64.vercel.app?user=fkm-X3&theme=hacker)](https://git.io/streak-stats)
 
-
-## Metrics
-![Metrics](github-metrics.svg)
-
 ## What am I cooking up?
 
-- 🔭 Working on: Alloy-OS and Tungsten
-- 🌱 Learning: Low level systems programing
+- 🔭 Working on: Ferric-K and Wolframite
+- 🌱 Learning: Low level systems programming and compiler design
