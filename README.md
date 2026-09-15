@@ -1,8 +1,8 @@
 # Hi there, I'm Fkm_X3 👋
 
 ## 💻 Featured Projects
-### [Kerric-K](https://github.com/fkm-X3/ferric-k)
-A bare metal kernel entirely in rust.
+### [Kerric-OS](https://github.com/Iron-Based/Ferric-OS)
+A bare metal OS entirely in rust.
 
 ## 🔥 GitHub streak
 
@@ -10,5 +10,5 @@ A bare metal kernel entirely in rust.
 
 ## What am I cooking up?
 
-- 🔭 Working on: Ferric-K and Wolframite
+- 🔭 Working on: Ferric-OS, Wolframite, Ferric-CC
 - 🌱 Learning: Low level systems programming and compiler design
