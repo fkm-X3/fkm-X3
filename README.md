@@ -5,7 +5,7 @@
 A bare metal OS entirely in rust.
 
 ### [Wolframite](https://github.com/fkm-X3/Wolframite)
-A low level imperative functional language built completely from scratch in zig 0.17.
+A low level imperative functional language built completely from scratch in zig 0.17.1 (i hate zig. once 0.1 of the compiler is out I'm rewriting it so its self hosting).
 
 ## 🔥 GitHub streak
 
